@@ -1,7 +1,7 @@
 # Random password generator
 # By codewithrich
 
-DEMO: https://codepen.io/codewithrich-the-bold/pen/NWMGJQX
+DEMO: https://codepen.io/codewithrich-codes/pen/NWMGJQX
 
 Create random **passwords** using the password **generator** tool.
 
