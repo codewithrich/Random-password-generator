@@ -1,5 +1,5 @@
-# Random password generator 
-# By codewithrich
+# Random password generator
+By codewithrich
 
 Create random **passwords** using the password **generator** tool.
 
